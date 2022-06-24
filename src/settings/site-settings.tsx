@@ -30,8 +30,8 @@ export const siteSettings = {
     width: 128,
     height: 120,
   },
-  defaultLanguage: 'az',
-  currencyCode: 'AZN',
+  defaultLanguage: 'en',
+  currencyCode: 'USD',
   site_header: {
     menu: [
      
