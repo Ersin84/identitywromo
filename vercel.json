@@ -1,22 +1,10 @@
 {
   "env": {
-<<<<<<< HEAD
-    "NEXT_PUBLIC_REST_API_ENDPOINT": "https://identity-wromo.tk/public/api",
+    "NEXT_PUBLIC_REST_API_ENDPOINT": "https://identity-wromo.tk/api",
     "NEXT_PUBLIC_SITE_URL": "https://identity-wromo.tk/",
-    "NEXT_PUBLIC_STRIPE_PUBLIC_KEY": "Put your stripe public key here",
-    "NEXT_PUBLIC_GOOGLE_API_KEY": "Put your google api key here"
-  },
-  "build": {
-    "env": {
-      "NEXT_PUBLIC_REST_API_ENDPOINT": "https://identity-wromo.tk/public/api",
-      "NEXT_PUBLIC_SITE_URL": "https://identity-wromo.tk/",
-      "NEXT_PUBLIC_STRIPE_PUBLIC_KEY": "Put your stripe public key here",
-      "NEXT_PUBLIC_GOOGLE_API_KEY": "Put your google api key here"
-=======
-    "NEXT_PUBLIC_REST_API_ENDPOINT": "https//www.identity-wromo.tk/api",
-    "NEXT_PUBLIC_SITE_URL": "https://www.identity-wromo.tk/",
     "NEXT_PUBLIC_STRIPE_PUBLIC_KEY": "pk_test_agMKzHwBRpyR53bibwmBV4gO00jWuMIbeq",
-    "NEXT_PUBLIC_GOOGLE_API_KEY": "xx0x"
+    "NEXT_PUBLIC_GOOGLE_API_KEY": "xxxxaxc"
+
   },
   "build": {
     "env": {
@@ -24,7 +12,6 @@
       "NEXT_PUBLIC_SITE_URL": "https://www.identity-wromo.tk/",
       "NEXT_PUBLIC_STRIPE_PUBLIC_KEY": "pk_test_agMKzHwBRpyR53bibwmBV4gO00jWuMIbeq",
       "NEXT_PUBLIC_GOOGLE_API_KEY": "xxxxaxc"
->>>>>>> 84aa19bf30b7ce59aa8bd7ba0c23a70c7edf0d8a
     }
   }
 }
