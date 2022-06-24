@@ -19,28 +19,28 @@ import {
 const social = [
   {
     id: 0,
-    link: 'https://www.facebook.com/redqinc/',
+    link: 'https://www.facebook.com/wromomerkant/',
     icon: <IoLogoFacebook />,
     className: 'facebook',
     title: 'text-facebook',
   },
   {
     id: 1,
-    link: 'https://twitter.com/redqinc',
+    link: 'https://twitter.com/WromoShop',
     icon: <IoLogoTwitter />,
     className: 'twitter',
     title: 'text-twitter',
   },
   {
     id: 2,
-    link: 'https://www.youtube.com/channel/UCjld1tyVHRNy_pe3ROLiLhw',
+    link: 'https://www.youtube.com/channel/UCP1z6q8Y8Gp6SufROHit8zA',
     icon: <IoLogoYoutube />,
     className: 'youtube',
     title: 'text-youtube',
   },
   {
     id: 3,
-    link: 'https://www.instagram.com/redqinc/',
+    link: 'https://ww.instagram.com/bestof_ads/',
     icon: <IoLogoInstagram />,
     className: 'instagram',
     title: 'text-instagram',

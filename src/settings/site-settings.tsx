@@ -12,8 +12,8 @@ export const siteSettings = {
   description:
     'Fastest E-commerce template built with React, NextJS, TypeScript, React-Query and Tailwind CSS.',
   author: {
-    name: 'RedQ, Inc.',
-    websiteUrl: 'https://redq.io',
+    name: 'Wromo, Inc.',
+    websiteUrl: 'https://identity-wromo.tk',
     address: '',
   },
   logo: {

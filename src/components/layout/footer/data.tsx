@@ -124,7 +124,7 @@ export const footer = {
   social: [
     {
       id: 1,
-      path: 'https://www.facebook.com/redqinc/',
+      path: 'https://www.facebook.com/wromomerkant/',
       image: '/assets/images/social/facebook.svg',
       name: 'facebook',
       width: 20,
@@ -132,7 +132,7 @@ export const footer = {
     },
     {
       id: 2,
-      path: 'https://twitter.com/redqinc',
+      path: 'https://twitter.com/WromoShop',
       image: '/assets/images/social/twitter.svg',
       name: 'twitter',
       width: 20,
@@ -140,7 +140,7 @@ export const footer = {
     },
     {
       id: 3,
-      path: 'https://www.instagram.com/redqinc/',
+      path: 'https://ww.instagram.com/bestof_ads/',
       image: '/assets/images/social/instagram.svg',
       name: 'instagram',
       width: 20,
@@ -148,7 +148,7 @@ export const footer = {
     },
     {
       id: 4,
-      path: 'https://www.youtube.com/channel/UCjld1tyVHRNy_pe3ROLiLhw',
+      path: 'https://www.youtube.com/channel/UCP1z6q8Y8Gp6SufROHit8zA',
       image: '/assets/images/social/youtube.svg',
       name: 'youtube',
       width: 20,
